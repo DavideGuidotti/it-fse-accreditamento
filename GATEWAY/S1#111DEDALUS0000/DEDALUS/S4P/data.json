@@ -1,0 +1,52 @@
+{
+	"appVendor": "DEDALUS",
+	"appID": "S4P",
+	"appVersion": "2506.32.00",
+	"results": [
+		{
+			"id": 491,
+            "ts":"2026-04-30T08:45:47Z",
+			"traceId": "50e7e0299031a0428436a3040022a98a",
+			"workflowInstanceId": "2.16.840.1.113883.3.1234.5678.90.38ca6be5368ed1306e9335832e27025078e8c3d486309f8525eae2c224b93fd9.c7b804a92f^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+			"files": [
+                "LET_SCR_CT1.pdf"
+                ]
+		},
+		{
+			"id": 492,
+            "ts":"2026-04-30T10:42:25Z",
+			"traceId": "ada094cef1b873c1e941234496557d33",
+			"workflowInstanceId": "2.16.840.1.113883.3.1234.5678.90.a989a132a0ecd0887862976a24d4e0253bd6a42df9cd856e4c68508fee765285.3770ecceeb^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+			"files": [
+                "LET_SCR_CT2.pdf"
+                ]
+		},
+		{
+			"id": 497,
+            "ts":"2026-05-04T14:23:54Z",
+			"traceId": "3e5ea8e930ca83d2a021c1a99c633593",
+			"workflowInstanceId": "2.16.840.1.113883.3.1234.5678.90.6971e57dc5312f27f77e941ca699899fb52104053fde75d0acc188f57ff0e73a.cf88849752^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+			"files": [
+                "LET_SCR_CT7.pdf"
+                ]
+		},
+		{
+			"id": 499,
+            "ts":"2026-05-04T15:01:54Z",
+			"traceId": "f439257f125745314298ada649519e41",
+			"workflowInstanceId": "2.16.840.1.113883.3.1234.5678.90.9bf65dfd8718f4389b2511be5bc11c3ba08b19b2bd0134cceb719b380549590d.028a3acd8a^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+			"files": [
+                "LET_SCR_CT9.pdf"
+                ]
+		},
+		{
+			"id": 504,
+            "ts":"2026-05-04T15:41:46Z",
+			"traceId": "72ebd33e60f9a298e8e243fc85b6bc15",
+			"workflowInstanceId": "UNKNOWN_WORKFLOW_ID",
+			"files": [
+                "LET_SCR_CT_TOKEN_KO.pdf"
+                ]
+		}
+	]
+}
